@@ -1,0 +1,5 @@
+{
+  "name": "LinkageLab",
+  "description": "A web-based mechanism design and simulation tool inspired by Motiongen. Design complex mechanical linkages, simulate their motion, and use AI to generate mechanism presets.",
+  "requestFramePermissions": []
+}
